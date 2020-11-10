@@ -1,4 +1,4 @@
-# Reproducible-Research---Project-1
+# Reproducible-Research ---Project 1---
 
 # Daily Activity Analysis
 The goal of this analysis is to look at the calculate the mean number of steps taken, any patterns present on a day to day basis, an analysis containing values for the ones that a curretly missing in the data set to see the effect and finally to determine what the difference between activity on the weekend and during the week.
